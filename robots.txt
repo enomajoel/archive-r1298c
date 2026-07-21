@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enomajoel.github.io/archive-r1298c/sitemap.xml
